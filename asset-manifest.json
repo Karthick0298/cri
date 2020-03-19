@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Karthick0298/cri/static/css/main.f40db810.chunk.css",
+    "main.js": "/Karthick0298/cri/static/js/main.e4fea507.chunk.js",
+    "main.js.map": "/Karthick0298/cri/static/js/main.e4fea507.chunk.js.map",
+    "runtime-main.js": "/Karthick0298/cri/static/js/runtime-main.72bdc3a0.js",
+    "runtime-main.js.map": "/Karthick0298/cri/static/js/runtime-main.72bdc3a0.js.map",
+    "static/js/2.9d8d73a4.chunk.js": "/Karthick0298/cri/static/js/2.9d8d73a4.chunk.js",
+    "static/js/2.9d8d73a4.chunk.js.map": "/Karthick0298/cri/static/js/2.9d8d73a4.chunk.js.map",
+    "index.html": "/Karthick0298/cri/index.html",
+    "precache-manifest.1010f0faa251fb5ee31f471bc7279c47.js": "/Karthick0298/cri/precache-manifest.1010f0faa251fb5ee31f471bc7279c47.js",
+    "service-worker.js": "/Karthick0298/cri/service-worker.js",
+    "static/css/main.f40db810.chunk.css.map": "/Karthick0298/cri/static/css/main.f40db810.chunk.css.map",
+    "static/js/2.9d8d73a4.chunk.js.LICENSE.txt": "/Karthick0298/cri/static/js/2.9d8d73a4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Karthick0298/cri/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72bdc3a0.js",
+    "static/js/2.9d8d73a4.chunk.js",
+    "static/css/main.f40db810.chunk.css",
+    "static/js/main.e4fea507.chunk.js"
+  ]
+}
